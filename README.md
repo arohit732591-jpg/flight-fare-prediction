@@ -155,7 +155,7 @@ These visualizations help examine the distribution and patterns of prediction er
 ```text
 flight-fare-prediction/
 │
-├── Flight.ipynb
+├── flight-fare-prediction.ipynb
 ├── Flight_Fare.xlsx
 └── README.md
 ```
@@ -166,7 +166,7 @@ flight-fare-prediction/
 2. Open the project folder in VS Code or Jupyter Notebook.
 3. Install the required Python libraries.
 4. Ensure `Flight_Fare.xlsx` is in the same folder as the notebook.
-5. Open `Flight.ipynb` and execute the notebook cells in order.
+5. Open `flight-fare-prediction.ipynb` and execute the notebook cells in order.
 
 Install the main dependencies using:
 
